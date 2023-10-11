@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirollos Ehab</h1>
 <h3 align="center">I am a dedicated and passionate student currently pursuing Artificial Intelligence (AI), Data Science and Embedded Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirollosemh&label=Profile%20views&color=0e75b6&style=flat" alt="kirollosemh" /> </p>
-
 - 🌱 I’m currently learning **Artificial Intelligence (AI) and Data Science**
 
 - 💬 Ask me about **Data Science, Machine Learning and Embedded Systems**
