@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning and Embedded Systems**
 
-- 📫 How to reach me **kirollosemh@gmail.com**
+- 📫 How to reach me **kirollos.ehab.magdy@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/17oloCc1fuKLZB4avwGk86FZFeN-i-1v3/view?usp=sharing)
 
