@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirollos Ehab</h1>
-<h3 align="center">I am a dedicated and passionate student currently pursuing Artificial Intelligence (AI), Data Science and Embedded Systems</h3>
+<h3 align="center">I am a passionate student currently pursuing Artificial Intelligence (AI), Data Science and Embedded Systems</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI) and Data Science**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kirollos.ehab.magdy@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/17oloCc1fuKLZB4avwGk86FZFeN-i-1v3/view?usp=sharing)
+- 📄 Know about my experiences [here](https://kirollosemh.github.io/My_Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
